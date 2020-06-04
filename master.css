@@ -2,15 +2,8 @@ h1
 {
   color:red;
 }
-.dropdown-toggle
-{
-  display: none;
-}
-.dropdown-toggle:hover dropdown-menu
-{
-  display: block;
-}
-h1:focus
-{
-  color:pink;
-}
+.dropdown:hover .dropdown-menu {
+    display: block;
+
+    
+ }
